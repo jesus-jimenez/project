@@ -1,1 +1,1 @@
-export { default as InputCms } from "./Input";
+export default from "./Input";
